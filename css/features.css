@@ -33,3 +33,21 @@
   letter-spacing: 0.02em;
   color: #434455;
 }
+
+.features-decoration {
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  width: 264px;
+  height: 112px;
+  background: #f4f4fd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row;
+  gap: 0;
+}
+
+.features-decoration-icon {
+  --feature-icon-accent: #4d5ae5;
+  color: #2e2f42;
+}
